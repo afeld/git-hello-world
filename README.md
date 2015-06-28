@@ -1,1 +1,3 @@
-This is the newly renovated readme file. Looks much better now.
+This is the newly renovated README file. Looks much better now.
+
+Love, Aidan
