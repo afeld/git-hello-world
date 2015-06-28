@@ -1,6 +1,6 @@
-Hello World!
+This is the newly renovated README file. Looks much better now.
 
-This is Aidan at the Git workshop.
+Love, Aidan
 
 * Jeremia
 * Dave
